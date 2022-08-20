@@ -7,3 +7,8 @@ L - учить
 Если все параметры равны нул, то питомец умирает
 ```
 
+```
+git clone git@github.com:Valerka2307/Tamagotchi.git
+    cd Tamagotchi
+    python3 main.py
+```
